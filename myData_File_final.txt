@@ -1,0 +1,24 @@
+Coconut Theater 
+
+MOVIE TITLE : Toy Story 4 (4DX)
+DATE : 30-09-2021
+SHOW TIME : 18:30
+THEATER : 6
+SEAT NO. : A12
+PRICE : 350
+Coconut Theater 
+
+MOVIE TITLE : Toy Story 4 (4DX)
+DATE : 30-09-2021
+SHOW TIME : 18:30
+THEATER : 6
+SEAT NO. : G08
+PRICE : 350
+Coconut Theater 
+
+MOVIE TITLE : Toy Story 4 (4DX)
+DATE : 30-09-2021
+SHOW TIME : 18:30
+THEATER : 6
+SEAT NO. : S17
+PRICE : 350
